@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Two Hours Late (Posts about rpi)</title><link>http://twohourslate.com/</link><description></description><atom:link href="http://twohourslate.com/categories/cat_rpi.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 25 Aug 2017 01:32:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Installing Ubuntu Mate</title><link>http://twohourslate.com/posts/ubuntu-mate-install/</link><dc:creator>revo</dc:creator><description>&lt;div&gt;&lt;p&gt;First to unxz things.
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Two Hours Late (Posts about rpi)</title><link>http://twohourslate.com/</link><description></description><atom:link href="http://twohourslate.com/categories/cat_rpi.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 28 Dec 2025 01:52:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Installing Ubuntu Mate</title><link>http://twohourslate.com/posts/ubuntu-mate-install/</link><dc:creator>revo</dc:creator><description>&lt;p&gt;First to unxz things.
 Then dd the bs from if to of.
 Then resize2fs the ./dev part.
 Sounds crazy, I know.&lt;/p&gt;
 &lt;!-- code-block:
 
 unxz ubuntu-mate-16.04-desktop-armhf-raspberry-pi.img.xz ./Ubuntu-MATE/
-sudo dd bs=4M if=./Ubuntu-MATE/ubuntu-mate-16.04-desktop-armhf-raspberry-pi.img of=/dev/sdf --&gt;&lt;/div&gt;</description><category>linux</category><guid>http://twohourslate.com/posts/ubuntu-mate-install/</guid><pubDate>Sat, 14 Jan 2017 23:51:52 GMT</pubDate></item></channel></rss>
+sudo dd bs=4M if=./Ubuntu-MATE/ubuntu-mate-16.04-desktop-armhf-raspberry-pi.img of=/dev/sdf --&gt;</description><category>linux</category><guid>http://twohourslate.com/posts/ubuntu-mate-install/</guid><pubDate>Sat, 14 Jan 2017 23:51:52 GMT</pubDate></item></channel></rss>

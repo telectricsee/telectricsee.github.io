@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Two Hours Late (Posts about speed)</title><link>http://twohourslate.com/</link><description></description><atom:link href="http://twohourslate.com/categories/speed.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Mon, 15 Jan 2018 18:52:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>faster</title><link>http://twohourslate.com/posts/make%20life%20more%20competitive/</link><dc:creator>revo</dc:creator><description>&lt;div&gt;&lt;p&gt;How could it ever be faster to take notes by printing? It is far faster to write with type. This is one of the handicaps of today's youth because they are not able to keep up with the pace of taking notes in class. I used to write like a bandit in class to try to keep up with the professor so that I could pass the test. Apparently, I was just studying to be a writer.
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Two Hours Late (Posts about speed)</title><link>http://twohourslate.com/</link><description></description><atom:link href="http://twohourslate.com/categories/speed.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 28 Dec 2025 01:52:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>faster</title><link>http://twohourslate.com/posts/make%20life%20more%20competitive/</link><dc:creator>revo</dc:creator><description>&lt;p&gt;How could it ever be faster to take notes by printing? It is far faster to write with type. This is one of the handicaps of today's youth because they are not able to keep up with the pace of taking notes in class. I used to write like a bandit in class to try to keep up with the professor so that I could pass the test. Apparently, I was just studying to be a writer.
 ..
 What is the fastest stream of consciousness that you have in your toolbox?
 ..
@@ -18,12 +18,13 @@ Which are slower that you should do more often?
 &lt;strong&gt;Script&lt;/strong&gt;: 4m34s
 .. thumbnail:: /images/script.jpg
 ..
-:Know where to go: Written in &lt;a href="http://twohourslate.com/posts/make%20life%20more%20competitive/#id1"&gt;&lt;span class="problematic" id="id2"&gt;Emacs_&lt;/span&gt;&lt;/a&gt; on achlinux|ARM_
+:Know where to go: Written in &lt;a href="http://twohourslate.com/posts/make%20life%20more%20competitive/#system-message-1"&gt;&lt;span class="problematic" id="problematic-1"&gt;Emacs_&lt;/span&gt;&lt;/a&gt; on achlinux|ARM_
 .. _ARM: &lt;a class="reference external" href="https://archlinuxarm.org/platforms/armv6/raspberry-pi/"&gt;https://archlinuxarm.org/platforms/armv6/raspberry-pi/&lt;/a&gt;
 .. _Emacs: &lt;a class="reference external" href="https://www.gnu.org/software/emacs/"&gt;https://www.gnu.org/software/emacs/&lt;/a&gt;&lt;/p&gt;
-&lt;div class="system-messages section"&gt;
+&lt;section class="system-messages"&gt;
 &lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 1); &lt;em&gt;&lt;a href="http://twohourslate.com/posts/make%20life%20more%20competitive/#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Unknown target name: "emacs".&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>speed</category><guid>http://twohourslate.com/posts/make%20life%20more%20competitive/</guid><pubDate>Mon, 15 Jan 2018 18:29:00 GMT</pubDate></item></channel></rss>
+&lt;aside class="system-message" id="system-message-1"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 1); &lt;em&gt;&lt;a href="http://twohourslate.com/posts/make%20life%20more%20competitive/#problematic-1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Unknown target name: "emacs".&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/section&gt;</description><category>speed</category><guid>http://twohourslate.com/posts/make%20life%20more%20competitive/</guid><pubDate>Mon, 15 Jan 2018 18:29:00 GMT</pubDate></item></channel></rss>

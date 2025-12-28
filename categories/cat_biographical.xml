@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Two Hours Late (Posts about biographical)</title><link>http://twohourslate.com/</link><description></description><atom:link href="http://twohourslate.com/categories/cat_biographical.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Mon, 15 Jan 2018 18:34:32 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>What It's Like</title><link>http://twohourslate.com/posts/tell%20me/</link><dc:creator>revo</dc:creator><description>&lt;div&gt;&lt;p&gt;It was 2017 when the world recognized that careers behind keyboards were not self fulfilling but were the ultimate dystopian dream. Unless you were a writer or a Scientist or a Science Writer.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Two Hours Late (Posts about biographical)</title><link>http://twohourslate.com/</link><description></description><atom:link href="http://twohourslate.com/categories/cat_biographical.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 28 Dec 2025 01:52:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>What It's Like</title><link>http://twohourslate.com/posts/tell%20me/</link><dc:creator>revo</dc:creator><description>&lt;p&gt;It was 2017 when the world recognized that careers behind keyboards were not self fulfilling but were the ultimate dystopian dream. Unless you were a writer or a Scientist or a Science Writer.&lt;/p&gt;
 &lt;!--  --&gt;
-&lt;a class="reference external image-reference" href="http://twohourslate.com/images/successful_people.png"&gt;&lt;img alt="/images/successful_people.thumbnail.png" src="http://twohourslate.com/images/successful_people.thumbnail.png"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://twohourslate.com/images/successful_people.png"&gt;
+&lt;img alt="/images/successful_people.thumbnail.png" src="http://twohourslate.com/images/successful_people.thumbnail.png"&gt;
+&lt;/a&gt;
 &lt;!--  --&gt;
 &lt;p&gt;For everyone else, it became the matrix. No one wanted to be there, but no one could leave. Their bodies were weakened by years of idleness and comfort. Income, insurance and retirement became more critical to sustaining life than did faith, hope and love. In fact, those were just basically make believe relics from a simpler time. There was nothing to have faith in. Sure, there was hope but it wasn't hope for a better tomorrow as much as hope that today would be uneventful. And love... the love that defined humanity was disappearing like the glaciers that had protected the earth from man for 40,000 &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Last_Glacial_Maximum"&gt;years&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Love became only for the seekers as most stopped looking long before they could ever construct it. The women who were the weaker sex from the beginning of the species were becoming a dominant force in global affairs. They were strong and they were angry. The men were angry too, but their anger wasn't about what they were losing as much as what they never had. Only children could know happiness and security as their brains were not infused with the sophisticatied model of history that is required to see the world in the hard light of truth. Ahh, truth was the one gem of our age. Everyone lusted after truth. You thought it was money, didn't you? You wouldn't be alone. Most would think it was money, and each would be alone in their dream of fame and fortune. In 1987 it was discovered that money can't buy you love.&lt;/p&gt;
@@ -9,14 +11,10 @@
 &lt;p&gt;&lt;strong&gt;Does truth exist?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;That's a long question and time is so short. A smart man says that learning is living and time is always on his side. That would be the outside, by the way.&lt;/p&gt;
 &lt;div class="youtube-video"&gt;
-&lt;iframe width="425" height="344" src="https://www.youtube.com/embed/jc_oLZuFwaI?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jc_oLZuFwaI?rel=0&amp;amp;wmode=transparent" frameborder="0" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;!--  --&gt;
-&lt;table class="docutils field-list" frame="void" rules="none"&gt;
-&lt;col class="field-name"&gt;
-&lt;col class="field-body"&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr class="field"&gt;&lt;th class="field-name" colspan="2"&gt;Know where to go:&lt;/th&gt;&lt;/tr&gt;
-&lt;tr class="field"&gt;&lt;td&gt; &lt;/td&gt;&lt;td class="field-body"&gt;Written in &lt;a class="reference external" href="https://www.gnu.org/software/emacs/"&gt;Emacs&lt;/a&gt; on archlinux|ARM_&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><category>living 2017</category><guid>http://twohourslate.com/posts/tell%20me/</guid><pubDate>Fri, 13 Oct 2017 05:43:06 GMT</pubDate></item></channel></rss>
+&lt;dl class="field-list simple"&gt;
+&lt;dt&gt;Know where to go&lt;span class="colon"&gt;:&lt;/span&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Written in &lt;a class="reference external" href="https://www.gnu.org/software/emacs/"&gt;Emacs&lt;/a&gt; on archlinux|ARM_&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;</description><category>living 2017</category><guid>http://twohourslate.com/posts/tell%20me/</guid><pubDate>Fri, 13 Oct 2017 05:43:06 GMT</pubDate></item></channel></rss>

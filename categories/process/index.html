@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +7,7 @@
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../rss.xml">
 <link rel="canonical" href="http://twohourslate.com/categories/process/">
 <link rel="icon" href="../../favicon.ico" sizes="16x16">
 <link rel="icon" href="../../assets/img/favicon-32x32.png" sizes="32x32">
@@ -23,7 +23,7 @@
 <link rel="icon" href="../../assets/img/apple-icon-152x152.png" sizes="152x152">
 <link rel="icon" href="../../assets/img/apple-icon-180x180.png" sizes="180x180">
 <link rel="icon" href="../../assets/img/android-icon-192x192.png" sizes="192x192">
-<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS for tag process" href="../../categories/process.xml">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS for tag process" hreflang="en" href="../process.xml">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -48,7 +48,7 @@
         <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
             <ul class="nav navbar-nav">
 <li>
-<a href="../../"><i class="fa fa-home fa-lg"></i></a>
+<a href="../../">Home</a>
                 </li>
 <li>
 <a href="../../about.html">About</a>
@@ -57,22 +57,19 @@
 <a href="../../archive.html">Archive</a>
                 </li>
 <li>
-<a href="../../categories/">Tags</a>
+<a href="../">Tags</a>
                 </li>
 <li>
 <a href="../../authors/">Authors</a>
                 </li>
 <li>
-<a href="https://twitter.com/revorefurb"><i class="fa fa-twitter fa-lg"></i></a>
+<a href="https://github.com/telectricsee">Github</a>
                 </li>
 <li>
-<a href="https://github.com/revorefurb"><i class="fa fa-github fa-lg"></i></a>
+<a href="http://writerscafe.org/biminicrimp">WritersCafe</a>
                 </li>
 <li>
-<a href="http://writerscafe.org/biminicrimp"><i class="fa fa-pencil-square-o fa-lg"></i></a>
-                </li>
-<li>
-<a href="../../rss.xml"><i class="fa fa-rss fa-lg"></i></a>
+<a href="https://soundcloud.com/user-819601661">SoundCloud</a>
 
                 
             </li>
@@ -91,23 +88,25 @@
 <article class="tagpage"><header><h1>Posts about process</h1>
         <div class="metadata">
             
-            <p class="feedlink">
-                    <a href="../../categories/process.xml" type="application/rss+xml">RSS feed</a>
-            </p>
+                <p class="feedlink">
+                        
+            <a href="../process.xml" hreflang="en" type="application/rss+xml">RSS feed</a>
+
+                </p>
 
         </div>
         
 
     </header><ul class="postlist">
 <li>
-<time class="listdate" datetime="2017-02-14T23:13:55-07:00" title="February 14, 2017">February 14, 2017</time><a href="../../posts/turtle_turds/" class="listtitle">Turtle Turds</a><a></a>
+<time class="listdate" datetime="2017-02-14T23:13:55-07:00" title="2017-13-14 23:13">2017-13-14 23:13</time><a href="../../posts/turtle_turds/" class="listtitle">Turtle Turds</a><a></a>
 </li>
         </ul></article>
 </div>
         <!--End of body content-->
 
         <footer id="footer">
-            Contents © 2018         <a href="mailto:revorefurb@gmail.com">revorefurb</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2025         <a href="mailto:revorefurb@gmail.com">revo</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
         </footer>
 </div>
@@ -116,10 +115,17 @@
 
             <script src="../../assets/js/all-nocdn.js"></script><div class="share"></div>
 
-    <script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+    <!-- fancy dates -->
+    <script>
     moment.locale("en");
     fancydates(2, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script src="../../javascripts/jquery.socialshareprivacy.min.js"></script><script>
+    </script><!-- end fancy dates --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script><script src="../../javascripts/jquery.socialshareprivacy.min.js"></script><script>
 $(document).ready(function () {
     $('.share').socialSharePrivacy();
 });

@@ -6,187 +6,167 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://twohourslate.com/authors/bimi.xml</loc>
-  <lastmod>2017-01-23T02:16:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://twohourslate.com/authors/biminicrimp.xml</loc>
-  <lastmod>2017-01-15T07:46:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://twohourslate.com/authors/revo.xml</loc>
-  <lastmod>2018-01-15T18:44:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/revorefurb.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/action.xml</loc>
-  <lastmod>2017-08-28T04:40:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/camels.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_biographical.xml</loc>
-  <lastmod>2018-01-15T18:34:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_deep-thoughts.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_fodder.xml</loc>
-  <lastmod>2017-08-25T01:33:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_just-write.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_observations.xml</loc>
-  <lastmod>2017-08-28T04:40:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_philosophy.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://twohourslate.com/categories/cat_poetry.xml</loc>
-  <lastmod>2017-01-15T07:46:00Z</lastmod>
+  <loc>http://twohourslate.com/categories/cat_posts.xml</loc>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_questions.xml</loc>
-  <lastmod>2017-08-25T01:59:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_rpi.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_skills.xml</loc>
-  <lastmod>2018-01-15T18:44:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_social.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_thoughts.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://twohourslate.com/categories/cat_tools.xml</loc>
-  <lastmod>2018-01-15T18:34:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_trials.xml</loc>
-  <lastmod>2017-08-25T01:33:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_virtual.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/comfort.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cosmos.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/desire.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/destiny.xml</loc>
-  <lastmod>2017-08-25T01:59:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/emacs.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/existential-absurdity.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/fate.xml</loc>
-  <lastmod>2017-08-25T01:59:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/future.xml</loc>
-  <lastmod>2017-08-25T01:59:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/linux.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/living-2017.xml</loc>
-  <lastmod>2018-01-15T18:33:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/move.xml</loc>
-  <lastmod>2017-08-28T04:40:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/nature.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://twohourslate.com/categories/poem.xml</loc>
-  <lastmod>2017-01-15T07:46:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/process.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/purpose.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/speed.xml</loc>
-  <lastmod>2018-01-15T18:44:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/struggle.xml</loc>
-  <lastmod>2017-08-28T04:40:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://twohourslate.com/categories/template.xml</loc>
-  <lastmod>2018-01-15T18:33:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/thoughts.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/time.xml</loc>
-  <lastmod>2017-08-25T01:59:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/work.xml</loc>
-  <lastmod>2017-08-28T04:40:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/galleries/demo/rss.xml</loc>
-  <lastmod>2018-01-15T18:33:00Z</lastmod>
+  <lastmod>2025-12-28T02:11:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/galleries/rss.xml</loc>
-  <lastmod>2018-01-15T18:33:00Z</lastmod>
+  <lastmod>2025-12-28T02:11:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/rss.xml</loc>
-  <lastmod>2018-01-15T18:44:00Z</lastmod>
+  <lastmod>2025-12-28T01:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/sitemap.xml</loc>
-  <lastmod>2018-01-15T18:44:00Z</lastmod>
+  <lastmod>2025-12-28T02:11:00Z</lastmod>
  </sitemap>
 </sitemapindex>
